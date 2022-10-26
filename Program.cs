@@ -1,4 +1,7 @@
-﻿bool letsPlay = true;
+﻿//Peer review: Zac Rice
+//comment: Works great and functions as intended!
+
+bool letsPlay = true;
 
 while(letsPlay == true)
 {
